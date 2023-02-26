@@ -519,3 +519,194 @@ mobile devices
         margin: 0 105px;
     }
 }
+
+
+/* --------------------------
+ tablet devices
+ -------------------------- */
+
+
+/* 
+
+@media only screen and (min-width:689px) and (max-width:992px) {
+    body {
+        margin: 0;
+    }
+
+    main {
+        margin: 0px;
+    }
+
+    .first-section {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .mobile {
+        width: 393px;
+    }
+
+    .first-section h1 {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 28px;
+        line-height: 42px;
+        text-align: center;
+        color: #3A3A3A;
+
+    }
+
+    .first-section p {
+        margin-left: 20px;
+        margin-right: 20px;
+        font-family: 'Poppins';
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 21px;
+        text-align: center;
+        color: #3A3A3A;
+    }
+
+    .preebook {
+        margin: 0 105px;
+        font-family: 'Poppins';
+        font-size: 17px;
+        font-weight: 400;
+        text-decoration: none;
+        color: white;
+        background-color: #e22e6d;
+        border-radius: 15px;
+        padding: 15px;
+    }
+
+    .fa-arrow-right {
+        margin-left: 5px;
+        margin-top: 50px;
+        font-size: 20px;
+    }
+
+    .half-width img {
+        margin-left: 65px;
+        width: 257px;
+    }
+
+    .logos {
+        width: 275px;
+        margin-top: 0px;
+        margin-left: 59px;
+        margin-right: 59px;
+        margin-top: 50px;
+        border: none;
+    }
+
+    .logos img {
+        padding: 10px;
+    }
+
+    .alibaba {
+        width: 33px;
+    }
+
+    .amazon {
+        width: 50.94px;
+    }
+
+    .daraz {
+        width: 51.17px;
+    }
+
+    .ebay {
+        width: 44.41px;
+    }
+
+    .rakuten {
+        width: 58.86px;
+    }
+
+    .walmart {
+        width:
+            67.31px;
+    }
+
+    .target {
+        width:
+            67.68px;
+    }
+
+    .products {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .product {
+        width: 330px;
+        margin: 15px;
+        border: 1px solid white;
+        border-radius: 4px;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+    }
+
+    .grid-section {
+        margin-left: 16px;
+        margin-right: 0px;
+    }
+
+    .last-flex {
+        display: flex;
+        flex-direction: column-reverse;
+        margin: 0;
+    }
+
+    .gearimg {
+        margin: 0;
+    }
+
+    .gearimg img {
+        margin-left: 47px;
+        margin-bottom: 50px;
+        width: 299px;
+    }
+
+    .gear-dis {
+        height: auto;
+        margin-left: 25px;
+        margin-right: 25px;
+        margin-bottom: 0123px;
+        margin-top: 50px;
+    }
+
+    .gear-dis h1 {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 36px;
+        text-align: center;
+        color: #0A0826;
+    }
+
+    .gear-dis p {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 28px;
+        text-align: center;
+        color: #6C6C6C;
+
+    }
+
+    .joinnow {
+        font-family: 'Poppins';
+        font-size: 17px;
+        font-weight: 400;
+        text-decoration: none;
+        color: white;
+        background-color: #e22e6d;
+        border-radius: 15px;
+        padding: 15px;
+        margin: 0 105px;
+    }
+} */
