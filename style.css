@@ -346,6 +346,32 @@ mobile devices
         margin: 0px;
     }
 
+    header {
+        margin-top: 35px;
+    }
+
+    header h3 {
+        margin-left: 115.5px;
+        width: 162px;
+        font-family: 'Poppins';
+        font-weight: 700;
+        font-size: 16px;
+        color: #3A3A3A;
+    }
+
+    nav {
+        display: none;
+    }
+
+
+    .fa-cart-shopping {
+        font-size: 24px;
+    }
+
+    .material-symbols-outlined {
+        display: none;
+    }
+
     .first-section {
         display: flex;
         flex-direction: column-reverse;
