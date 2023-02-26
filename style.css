@@ -199,3 +199,51 @@ header span:hover {
     font-weight: 700;
     color: #5E6366;
 }
+
+.seemore1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-decoration: none;
+    color: #e22e6d;
+    margin-top: 50px;
+    margin-right: 70px;
+    margin-bottom: 100px;
+    display: block;
+    text-align: right;
+}
+
+
+
+/* ------------------
+footer 
+------------------ */
+
+.foot {
+    text-align: center;
+    background-color: #0a0826;
+    padding-top: 34px;
+    padding-bottom: 50px;
+}
+
+.foot h1 {
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 24px;
+    color: #FFFFFF;
+
+}
+
+.foot p {
+    font-family: 'Manrope';
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #D9DBE1;
+}
+
+footer a {
+    color: white;
+    font-size: 30px;
+    padding: 5px;
+}
