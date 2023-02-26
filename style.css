@@ -201,17 +201,101 @@ header span:hover {
 }
 
 .seemore1 {
+
+    margin-top: 50px;
+    margin-right: 72px;
+    display: block;
+    text-align: right;
+}
+
+.seemore1 a {
     font-family: 'Poppins', sans-serif;
     font-size: 20px;
     font-weight: 700;
     text-decoration: none;
     color: #e22e6d;
-    margin-top: 50px;
-    margin-right: 70px;
-    margin-bottom: 100px;
-    display: block;
-    text-align: right;
+    transition: all 0.5s ease 0s;
+    cursor: pointer;
 }
+
+.seemore1 a:hover {
+    color: black;
+}
+
+.semoreright {
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+
+
+.last-flex {
+    justify-content: center;
+    display: flex;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.gearimg {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.gear-dis {
+    height: 270px;
+    margin-left: 96px;
+    margin-bottom: 123px;
+    margin-top: 100px;
+}
+
+.gear-dis h1 {
+    margin-top: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    color: #0A0826;
+}
+
+.gear-dis p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    color: #6C6C6C;
+    margin-bottom: 8px;
+
+}
+
+
+.joinnow {
+    font-family: 'Poppins';
+    font-size: 17px;
+    font-weight: 400;
+    text-decoration: none;
+    color: white;
+    background-color: #e22e6d;
+    border-radius: 15px;
+    padding: 15px;
+    transition: all 0.2s ease 0s;
+    cursor: pointer;
+}
+
+.joinnow:hover {
+    color: white;
+    background-color: black;
+}
+
+.joinnowright {
+    margin-top: 16px;
+}
+
+/* .fa-arrow-right {
+    margin-left: 5px;
+    margin-top: 50px;
+    font-size: 20px;
+} */
 
 
 
