@@ -463,17 +463,59 @@ mobile devices
     }
 
     .last-flex {
-        display: block;
+        display: flex;
+        flex-direction: column-reverse;
         margin: 0;
     }
 
     .gearimg {
-        align-items: center;
         margin: 0;
     }
 
     .gearimg img {
+        margin-left: 47px;
+        margin-bottom: 50px;
         width: 299px;
     }
 
+    .gear-dis {
+        height: auto;
+        margin-left: 25px;
+        margin-right: 25px;
+        margin-bottom: 0123px;
+        margin-top: 50px;
+    }
+
+    .gear-dis h1 {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 36px;
+        text-align: center;
+        color: #0A0826;
+    }
+
+    .gear-dis p {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 28px;
+        text-align: center;
+        color: #6C6C6C;
+
+    }
+
+    .joinnow {
+        font-family: 'Poppins';
+        font-size: 17px;
+        font-weight: 400;
+        text-decoration: none;
+        color: white;
+        background-color: #e22e6d;
+        border-radius: 15px;
+        padding: 15px;
+        margin: 0 105px;
+    }
 }
