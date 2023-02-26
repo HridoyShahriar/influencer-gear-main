@@ -462,6 +462,17 @@ mobile devices
         margin-right: 0px;
     }
 
+    .seemore1 {
+        margin-top: 0px;
+        margin-right: 32px;
+        display: block;
+        text-align: right;
+    }
+
+    .semoreright {
+        margin-top: 0px;
+    }
+
     .last-flex {
         display: flex;
         flex-direction: column-reverse;
