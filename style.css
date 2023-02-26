@@ -395,18 +395,52 @@ mobile devices
         font-size: 20px;
     }
 
-    /* .half-width {
-        display: list-item;
-        list-style: none;
-        width: max-content;
-        height: fit-content;
-    } */
-
-
-
     .half-width img {
         margin-left: 65px;
         width: 257px;
+    }
+
+    .logos {
+        width: 275px;
+        margin-top: 0px;
+        margin-left: 59px;
+        margin-right: 59px;
+        margin-top: 50px;
+        border: none;
+    }
+
+    .logos img {
+        padding: 10px;
+    }
+
+    .alibaba {
+        width: 33px;
+    }
+
+    .amazon {
+        width: 50.94px;
+    }
+
+    .daraz {
+        width: 51.17px;
+    }
+
+    .ebay {
+        width: 44.41px;
+    }
+
+    .rakuten {
+        width: 58.86px;
+    }
+
+    .walmart {
+        width:
+            67.31px;
+    }
+
+    .target {
+        width:
+            67.68px;
     }
 
     .products {
@@ -422,4 +456,10 @@ mobile devices
         box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 
     }
+
+    .grid-section {
+        margin-left: 16px;
+        margin-right: 0px;
+    }
+
 }
