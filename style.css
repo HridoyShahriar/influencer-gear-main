@@ -352,7 +352,7 @@ mobile devices
     }
 
     .mobile {
-        width: 404px;
+        width: 393px;
     }
 
     .first-section h1 {
@@ -378,7 +378,7 @@ mobile devices
     }
 
     .preebook {
-        margin: 0 111px;
+        margin: 0 105px;
         font-family: 'Poppins';
         font-size: 17px;
         font-weight: 400;
@@ -460,6 +460,20 @@ mobile devices
     .grid-section {
         margin-left: 16px;
         margin-right: 0px;
+    }
+
+    .last-flex {
+        display: block;
+        margin: 0;
+    }
+
+    .gearimg {
+        align-items: center;
+        margin: 0;
+    }
+
+    .gearimg img {
+        width: 299px;
     }
 
 }
