@@ -136,6 +136,26 @@ header span:hover {
     color: #3A3A3A;
 }
 
+.grid-section {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.grid-section h1 {
+    font-family: 'Poppins';
+    font-size: 28px;
+    font-weight: 500;
+
+}
+
+.grid-section p {
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 700;
+    color: #787885;
+    line-height: 25px;
+}
+
 .products {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -159,25 +179,6 @@ header span:hover {
     margin: 0 0 14px 14px;
 }
 
-.grid-section {
-    margin-left: 200px;
-    margin-right: 200px;
-}
-
-.grid-section h1 {
-    font-family: 'Poppins';
-    font-size: 28px;
-    font-weight: 500;
-
-}
-
-.grid-section p {
-    font-family: 'Inter';
-    font-size: 14px;
-    font-weight: 700;
-    color: #787885;
-    line-height: 25px;
-}
 
 .Pprice {
     font-size: 24px;
@@ -470,6 +471,11 @@ mobile devices
             67.68px;
     }
 
+    .grid-section {
+        margin-left: 16px;
+        margin-right: 0px;
+    }
+
     .products {
         display: grid;
         grid-template-columns: repeat(1, 1fr);
@@ -482,11 +488,6 @@ mobile devices
         border-radius: 4px;
         box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 
-    }
-
-    .grid-section {
-        margin-left: 16px;
-        margin-right: 0px;
     }
 
     .seemore1 {
