@@ -2,11 +2,11 @@ body {
     margin: 0;
 }
 
-main {
-    /* margin-top: 87px;
+/* main {
+    margin-top: 87px;
     margin-right: 120px;
-    margin-left: 120px; */
-}
+    margin-left: 120px;
+} */
 
 header {
     display: flex;
@@ -260,10 +260,10 @@ header span:hover {
     margin-left: 100px; */
 }
 
-.gearimg {
-    /* margin-top: 100px;
-    margin-bottom: 100px; */
-}
+/* .gearimg {
+    margin-top: 100px;
+    margin-bottom: 100px;
+} */
 
 .gearimg img {
     display: block;
@@ -271,12 +271,12 @@ header span:hover {
     margin-right: auto;
 }
 
-.gear-dis {
-    /* height: 270px;
+/* .gear-dis {
+    height: 270px;
     margin-left: 96px;
     margin-bottom: 123px;
-    margin-top: 100px; */
-}
+    margin-top: 100px;
+} */
 
 .gear-dis h1 {
     margin-top: 20px;
@@ -368,16 +368,16 @@ mobile devices
 
 
 @media only screen and (max-width:688px) {
-    body {
+    /* body {
         margin: 0;
     }
 
     main {
         margin: 0px;
-    }
+    } */
 
     header {
-        margin-top: 35px;
+        margin: 35px auto auto auto;
     }
 
     header h3 {
@@ -409,9 +409,6 @@ mobile devices
         flex-direction: column-reverse;
     }
 
-
-
-
     .fa-arrow-right {
         margin-left: 5px;
         margin-top: 50px;
@@ -419,6 +416,8 @@ mobile devices
     }
 
     .half-width {
+        width: 100%;
+        padding: 0;
         text-align: center;
     }
 
@@ -548,6 +547,7 @@ mobile devices
 
     .gearimg {
         margin: auto;
+        width: 100%;
     }
 
     .gearimg img {
